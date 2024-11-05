@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0c63622f-bae7-4ab7-bd33-8fb46e3d4e07)# Muhammad Agung Mahardhika
 
 - 🎓 Bachelor’s degree in Information Systems
 - 💼 Experience in full-stack development
